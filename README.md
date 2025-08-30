@@ -55,7 +55,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&style=flat-square) &nbsp;
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&style=flat-square) &nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat-square) &nbsp;
+![TiDB](https://img.shields.io/badge/TiDB-0A95FF?style=flat-square&logoColor=white) &nbsp;
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logoColor=white) &nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&style=flat-square) &nbsp;
+
 
 ---
 ## 📊 GitHub Stats
