@@ -22,7 +22,7 @@
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square) &nbsp;
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=flat-square) &nbsp;&nbsp;
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=flat-square) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square) &nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&style=flat-square) &nbsp;
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=flat-square) &nbsp;
@@ -30,13 +30,14 @@
 
 **Testing**  
 ![Pytest](https://img.shields.io/badge/-Pytest-3776AB?logo=pytest&style=flat-square) &nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&style=flat-square) &nbsp;
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba63?logo=playwright&style=flat-square) &nbsp;
-![Testify](https://img.shields.io/badge/Testify-%2300ADD8?style=flat-square) &nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&style=flat-square) &nbsp;
+![Appium](https://img.shields.io/badge/-Appium-ffffff?logo=appium&logoColor=black&style=flat-square) &nbsp;
+![Go Testify](https://img.shields.io/badge/Testify-%2300ADD8?style=flat-square) &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=flat-square) &nbsp;
 ![k6](https://img.shields.io/badge/-k6-7D64FF?logo=k6&style=flat-square) &nbsp;
-![Charles](https://img.shields.io/badge/Charles-grey?style=flat-square) &nbsp;
-![Proxyman](https://img.shields.io/badge/Proxyman-grey?style=flat-square) &nbsp;
+![Charles](https://img.shields.io/badge/Charles-ffffff?style=flat-square&logoColor=black) &nbsp;
+![Proxyman](https://img.shields.io/badge/Proxyman-007AFF?style=flat-square&logoColor=white) &nbsp;
 
 **CI/CD & Infrastructure**  
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&style=flat-square) &nbsp;
