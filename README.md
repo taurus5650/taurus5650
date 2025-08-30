@@ -58,15 +58,7 @@
 
 ---
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurus5650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420"/>
-    </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=taurus5650&limit=5&theme=dark&combine_all_yearly_contributions=true" width="420"/>
-    </td>
-  </tr>
-</table>
-
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taurus5650&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420"/>
+</p>
 
