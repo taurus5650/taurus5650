@@ -14,7 +14,7 @@
 ## 💻 About Me
 - 🌱 Malaysian living in Taiwan (APRC holder)
 - 💼 Currently working as a Senior SDET at a Taiwan-based E-Wallet company  
-- 📫 Open to SDET, QA, SRE, or DevOps roles (Taiwan 🇹🇼 · Singapore 🇸🇬)
+- 📫 Open to SDET, QA, SRE, or DevOps roles (Singapore 🇸🇬 · Taiwan 🇹🇼)
 
 ---
 
