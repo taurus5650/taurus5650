@@ -22,8 +22,8 @@
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square) &nbsp;
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=flat-square) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square) &nbsp;
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=flat-square) &nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&style=flat-square) &nbsp;
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=flat-square) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) &nbsp;
